@@ -1,0 +1,13 @@
+input[type="file"] {
+  display: none;
+}
+
+.fileLink {
+  margin-right: 10px;
+  line-height: 28px;
+}
+
+ul {
+  list-style-type: none;
+  padding-inline-start: 20px;
+}
